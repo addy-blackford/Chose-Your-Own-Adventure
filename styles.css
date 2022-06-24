@@ -1,0 +1,45 @@
+.power{
+ display:none;
+ width:37%;
+}
+
+body{
+ background-color:#ee830a;   
+}
+
+button{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+	font-size:30px;
+    background-color:#ffd987;
+    padding:5px;
+    display:none;
+}
+
+.button{
+ 	display:flex;
+    justify-content:space-around;
+}
+
+.cars{
+ display:none;   
+ width:37%;
+ margin:5%;
+}
+
+.car-text{
+ display:none;   
+}
+
+header{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size:50px;
+    text-align:center;
+}
+
+img{
+ margin:15%;   
+}
+
+.power-text{
+ display:none;   
+}

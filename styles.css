@@ -1,6 +1,6 @@
 .power{
  display:none;
- width:37%;
+ width:50vh;
 }
 
 body{
@@ -26,10 +26,6 @@ button{
  margin:5%;
 }
 
-.car-text{
- display:none;   
-}
-
 header{
     font-family: 'Kdam Thmor Pro', sans-serif;
     font-size:50px;
@@ -40,9 +36,11 @@ img{
  margin:15%;   
 }
 
-.power-text{
+.power-text, .car-text{
  display:none;   
 }
+
 .end{
- display:none;   
+ width:100vw;   
+ display:none;
 }
